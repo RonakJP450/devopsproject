@@ -5,7 +5,10 @@ package main
 //go:generate go install google.golang.org/protobuf/cmd/protoc-gen-go
 //go:generate go install google.golang.org/grpc/cmd/protoc-gen-go-grpc
 //go:generate protoc --go_out=./ --go-grpc_out=./ --proto_path=../../pb ../../pb/demo.proto
-lalknmvlskn
+
+of (tfj)
+
+
 import (
 	"context"
 	"fmt"
